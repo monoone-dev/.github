@@ -26,9 +26,16 @@ and the reasoning model itself — **on your Mac**. Ask it a question out loud
 *while the meeting is still running* and get a grounded answer with sources from
 months of past calls. Every note ends up as plain Markdown you own, Obsidian-ready.
 
+It's grown past meetings, too: a standalone Notes workspace for writing and editing
+directly, with the same on-device brain as a selection assistant — and an opt-in,
+end-to-end-encrypted Shared Brain for teams who want to publish notes into an
+org-wide feed without ever trusting a server with plaintext.
+
 - 🧠 **An on-device brain you can talk to mid-meeting** — grounded answers, with citations, live
 - 🔒 **Local-first for real** — fully-local stack means nothing ever leaves the device
 - 🎧 **Hears the whole call** — your mic *and* the other side, merged into a Me/Others transcript
+- 📝 **A standalone Notes workspace** — write and edit directly, with the same brain as a selection assistant
+- 🤝 **Shared Brain for teams (opt-in, E2EE)** — publish notes/meetings into an org-wide feed, sealed client-side before it ever leaves your Mac
 - 📁 **You own the output** — plain Markdown, `[[wikilinks]]`, no lock-in
 - 🔐 **Per-folder Touch ID lock** — sealed meetings stay encrypted and invisible until you unlock
 
@@ -36,7 +43,7 @@ months of past calls. Every note ends up as plain Markdown you own, Obsidian-rea
 
 | Repo | What it is |
 | --- | --- |
-| [**murmur**](https://github.com/murmur-io/murmur) | The app — Tauri 2 (Rust) + Angular 18, whisper.cpp, on-device brain, MCP server |
+| [**murmur**](https://github.com/murmur-io/murmur) | The app — Tauri 2 (Rust) + Angular 22 (zoneless), whisper.cpp, on-device brain, MCP server |
 
 ## License
 
