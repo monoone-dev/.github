@@ -1,0 +1,3 @@
+# Per-machine agent settings
+/.claude/settings.local.json
+/.rig-one/
