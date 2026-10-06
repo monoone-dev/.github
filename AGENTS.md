@@ -19,7 +19,10 @@ Rules for every person and every coding agent working here:
 - **Conventional Commits.** Branch `<type>/<kebab-slug>`; commit header and pull-request title
   `<type>(<scope>): <subject>`, at most 100 characters, subject in lowercase imperative. Profile
   changes use `docs(profile): ...`. The PR body follows `.github/pull_request_template.md`.
-- **Pull request to `main`.** A merge to `main` publishes the change immediately.
+- **Pull request to `main`.** `main` is protected (ruleset "Protect main"): nobody pushes to it
+  directly, admins included. A pull request needs one approval from a code owner
+  (`.github/CODEOWNERS`); repository admins may merge their own without one. A merge to `main`
+  publishes the change immediately.
 - **Nothing private.** No internals of private repositories, no unreleased plans, no file paths
   from anyone's machine, no email addresses, no secrets. Use made-up examples.
 - **Public links only.** Every link must point at a public target: public repositories, published
