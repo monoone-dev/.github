@@ -45,7 +45,7 @@ the terminal it came from.
 - 🧾 **Evidence that lasts.** Receipts, handoffs and diagnostics stay after the output is gone.
 
 Free · alpha · macOS 13+ · Apple Silicon · bring your own agent CLI<br/>
-[Website](https://monoone-dev.github.io/rig-one-landing-page/) · [Download](https://github.com/monoone-dev/rig-one-landing-page/releases/latest)
+[Website](https://monoone.dev/rig-one-landing-page/) · [Download](https://github.com/monoone-dev/rig-one-landing-page/releases/latest)
 
 ## <img src="assets/surface-one.svg" alt="" width="32" height="32" align="absmiddle"> Surface One
 
@@ -58,7 +58,7 @@ with Angular components on top.
 - 🤖 **Made for AI assistants.** An MCP server with the components, their API and theme variables, plus agent skills for Claude, Codex and Copilot.
 
 Free · beta · Angular 22 · docs in 9 languages<br/>
-[Documentation](https://monoone-dev.github.io/surface-one/) · [Source](https://github.com/monoone-dev/surface-one)
+[Documentation](https://monoone.dev/surface-one/) · [Source](https://github.com/monoone-dev/surface-one)
 
 ## Repositories
 
