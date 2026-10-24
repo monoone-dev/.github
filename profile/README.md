@@ -45,7 +45,7 @@ the terminal it came from.
 - 🧾 **Evidence that lasts.** Receipts, handoffs and diagnostics stay after the output is gone.
 
 Free · alpha · macOS 13+ · Apple Silicon · bring your own agent CLI<br/>
-[Website](https://monoone.dev/rig-one-landing-page/) · [Download](https://github.com/monoone-dev/rig-one-landing-page/releases/latest)
+[Website](https://rig-one.io/) · [Download](https://github.com/monoone-dev/rig-one-landing-page/releases/latest)
 
 ## <img src="assets/surface-one.svg" alt="" width="32" height="32" align="absmiddle"> Surface One
 
